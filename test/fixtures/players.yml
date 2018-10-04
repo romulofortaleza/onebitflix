@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2018-10-04 09:39:49
+  end_date: 2018-10-04 09:39:49
+  elapsed_time: 2018-10-04 09:39:49
+  movie: one
+  user: one
+
+two:
+  start_date: 2018-10-04 09:39:49
+  end_date: 2018-10-04 09:39:49
+  elapsed_time: 2018-10-04 09:39:49
+  movie: two
+  user: two
